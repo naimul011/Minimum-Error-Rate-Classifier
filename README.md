@@ -6,11 +6,6 @@
 
 ## Roll:
 
-## 14.02.04.080 (B1)
-
-## Submission date: July 27,
-
-
 ```
 F
 ```
